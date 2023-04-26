@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*This helps by including the border into the size of each element*/
+}
+
+html {
+    scroll-snap-type: both mandatory;
+}
+
+li {
+    scroll-snap-align: start;
+    height: 100vh;
+    width: 100vw;
+}
