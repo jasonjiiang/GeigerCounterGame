@@ -1,0 +1,23 @@
+{
+  "name": "geigercounter",
+  "version": "1.0.0",
+  "description": "HTML5 game where you have to reach a goal.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonjiiang/GeigerCounter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonjiiang/GeigerCounter/issues"
+  },
+  "homepage": "https://github.com/jasonjiiang/GeigerCounter#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
